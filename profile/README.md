@@ -11,9 +11,7 @@ Repositories follow a consistent naming convention and organizational structure 
 
 ### Naming Convention
 
-**Format:**
-<area>-<scope>-<name>[-<qualifier>]
-
+**Format:** `<area>-<scope>-<name>[-<qualifier>]`
 
 | Component | Description | Example |
 |------------|-------------|----------|
