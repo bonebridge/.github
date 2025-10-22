@@ -33,7 +33,7 @@ sandbox-snippets
 
 | Area | Purpose |
 |------|----------|
-| **proj-*** | Project-specific repositories (e.g., ASEA, eDHR) |
+| **proj-*** | Project-specific repositories |
 | **ops-*** | Internal automation and operations repositories |
 | **qa-*** | Quality assurance and code quality tools |
 | **AppsScript** |
